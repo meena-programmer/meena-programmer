@@ -3,10 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MeenaKumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meenatchi-k-bb43a1215/)](https://www.linkedin.com/in/meena-programmer/)
 [![Gmail Badge](https://img.shields.io/badge/-meena.programmer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meena.programmer@gmail.com)](mailto:meena.programmer@gmail.com)
 
-- 👋 hi, I'm Meena! 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning React Hooks & Redux.
 - 👯 I’m looking to collaborate on React JS and React Native.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar-programmer&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=praveenkumar-programmer&theme=vue-dark&show_icons=true">
 
 <!---
 meena-programmer/meena-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
