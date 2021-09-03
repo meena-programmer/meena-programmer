@@ -1,6 +1,6 @@
 ### Hi, I'm Meena! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-meena-programmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meenatchi-k-bb43a1215/)](https://www.linkedin.com/in/meena-programmer/)
+[![Linkedin Badge](https://img.shields.io/badge/-meena.programmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meenatchi-k-bb43a1215/)](https://www.linkedin.com/in/meena-programmer/)
 [![Gmail Badge](https://img.shields.io/badge/-meena.programmer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meena.programmer@gmail.com)](mailto:meena.programmer@gmail.com)
 
 - 👋 hi, I'm Meena! 
