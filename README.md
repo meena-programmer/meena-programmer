@@ -1,6 +1,4 @@
-- 👋 hi, I'm Praveen! 
-Linkedin Badge Gmail Badge Telegram Badge
-
+- 👋 hi, I'm Meena! 
 
   🔭 I’m currently working on my personal projects.
   🌱 I’m currently learning React Hooks & Redux.
