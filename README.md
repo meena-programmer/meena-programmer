@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-meena.programmer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meena.programmer@gmail.com)](mailto:meena.programmer@gmail.com)
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning React Hooks & Redux.
-- 👯 I’m looking to collaborate on React JS and React Native.
+- 🌱 I’m currently learning NextJS & NodeJS.
+- 👯 I’m looking to collaborate on React with Node.
 
 <!---
 meena-programmer/meena-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
